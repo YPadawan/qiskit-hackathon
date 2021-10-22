@@ -14,13 +14,13 @@ During the implementation of this project, we encountered a bug with the global 
 
 This work was performed by:
 
-Idriss Alaoui Amini
+Idriss Alaoui Amini<br>
 https://www.linkedin.com/in/idriss-alaoui-amini-11096160/
 
 Matthijs van Waveren, CS GROUP<br>
 https://www.linkedin.com/in/mvanwaveren/
 
-Donchi Isaac
+Donchi Isaac<br>
 https://www.linkedin.com/in/isaac-christ-donchi-kamga-501557200/
 
 Nilesh Vyas
