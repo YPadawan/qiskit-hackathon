@@ -10,7 +10,7 @@ This work is also inspired by the implementation of QCNN using the Cirq API, as 
 
 You will find more details in the Jupyter Notebook included in this repository (https://github.com/YPadawan/qiskit-hackathon/blob/main/qcnn/QCNN_with_pytorch_and_qiskit.ipynb)
 
-During the implementation of this project, we encountered a bug with the global phase in Qiskit and misleading text in the Qiskit primer which were reported to IBM. The bug reports are included in the papers directory.
+During the implementation of this project, we encountered a bug with the global phase in Qiskit and misleading text in the Qiskit primer which were reported to IBM. Reports of these are included in the papers directory. The bug was reported on the Qiskit repository: https://github.com/Qiskit/qiskit-terra/issues/5845#issuecomment-950140348
 
 This work was performed by:
 
